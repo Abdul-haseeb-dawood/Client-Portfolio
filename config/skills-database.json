@@ -1,0 +1,187 @@
+{
+  "javascript": {
+    "name": "JavaScript",
+    "images": "/javascript.png",
+    "color": "default"
+  },
+  "typescript": {
+    "name": "TypeScript",
+    "images": "/typescript.png",
+    "color": "default"
+  },
+  "node.js": {
+    "name": "Node.js",
+    "images": "/node.png",
+    "color": "default"
+  },
+  "react.js": {
+    "name": "React.js",
+    "images": "/react.png",
+    "color": "default"
+  },
+  "angular": {
+    "name": "Angular",
+    "images": "/angular.png",
+    "color": "default"
+  },
+  "laravel": {
+    "name": "Laravel",
+    "images": "/laravel.png",
+    "color": "default"
+  },
+  "net": {
+    "name": ".NET",
+    "images": "/net.png",
+    "color": "default"
+  },
+  "nest.js": {
+    "name": "NestJS",
+    "images": "/nest.png",
+    "color": "default"
+  },
+  "express": {
+    "name": "Express.js",
+    "images": "/express.png",
+    "color": "default"
+  },
+  "redux": {
+    "name": "Redux",
+    "images": "/redux.png",
+    "color": "default"
+  },
+  "next.js": {
+    "name": "Next.js",
+    "images": "/next.png",
+    "color": "default"
+  },
+  "graphQL": {
+    "name": "GraphQL",
+    "images": "/graphql.png",
+    "color": "default"
+  },
+  "mongoDB": {
+    "name": "MongoDB",
+    "images": "/mongodb.png",
+    "color": "default"
+  },
+  "postgreSQL": {
+    "name": "PostgreSQL",
+    "images": "/postgre.png",
+    "color": "default"
+  },
+  "redis": {
+    "name": "Redis",
+    "images": "/redis.png",
+    "color": "default"
+  },
+  "swagger": {
+    "name": "Swagger",
+    "images": "/swagger.png",
+    "color": "default"
+  },
+  "party-ingeration": {
+    "name": "3rd party ingeration (meta, open AI , Ebay , Ecwid, Shopify ...)",
+    "images": "/party.png",
+    "color": "default"
+  },
+  "microservices": {
+    "name": "Microservices (Kafka , RabitMQ)",
+    "images": "/micro.png",
+    "color": "default"
+  },
+  "git": {
+    "name": "Git",
+    "images": "/git.png",
+    "color": "default"
+  },
+  "jira": {
+    "name": "Jira",
+    "images": "/jira.png",
+    "color": "default"
+  },
+  "docker": {
+    "name": "Docker",
+    "images": "/docker.png",
+    "color": "default"
+  },
+  "aws": {
+    "name": "AWS",
+    "images": "/aws.png",
+    "color": "default"
+  },
+  "ci/cd": {
+    "name": "CI/CD",
+    "images": "/cicd.png",
+    "color": "default"
+  },
+  "kafka": {
+    "name": "Kafka",
+    "images": "/kafka.png",
+    "color": "default"
+  },
+  "firebase": {
+    "name": "Firebase",
+    "images": "/firebase.png",
+    "color": "default"
+  },
+  "jenkins": {
+    "name": "Jenkins",
+    "images": "/jenkis.png",
+    "color": "default"
+  },
+  "socket.io": {
+    "name": "Socket.io",
+    "images": "/socket.jpg",
+    "color": "default"
+  },
+  "b2b": {
+    "name": "B2B",
+    "images": "/b2b.jpg",
+    "color": "default"
+  },
+  "html": {
+    "name": "HTML5",
+    "images": "/html.png",
+    "color": "default"
+  },
+  "css": {
+    "name": "CSS3",
+    "images": "/css.png",
+    "color": "default"
+  },
+  "bootstrap": {
+    "name": "Bootstrap",
+    "images": "/bootstrap.png",
+    "color": "default"
+  },
+  "php": {
+    "name": "PHP",
+    "images": "/php.png",
+    "color": "default"
+  },
+  "agile": {
+    "name": "Agile",
+    "images": "/angli.png",
+    "color": "default"
+  },
+  "tailwaind": {
+    "name": "Tailwind CSS",
+    "images": "/tailwaind.png",
+    "color": "default"
+  },
+  "github": {
+    "name": "GitHub",
+    "images": "/github.png",
+    "color": "default"
+  },
+  "gitlab": {
+    "name": "GitLab",
+    "images": "/gitlab.png",
+    "color": "default"
+  },
+  "bitbucket": {
+    "name": "Bitbucket",
+    "images": "/bit.png",
+    "color": "default"
+  }
+}
